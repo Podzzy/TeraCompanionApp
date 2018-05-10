@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+
+    <item android:id="@+id/nav_enchanting"
+        android:title="Enchanting"/>
+    <item android:id="@+id/nav_weapons"
+        android:title="Weapons"/>
+    <item android:id="@+id/nav_armor"
+        android:title="Armor"/>
+    <item android:id="@+id/nav_etching"
+        android:title="Etching"/>
+
+
+</menu>
